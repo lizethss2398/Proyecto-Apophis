@@ -55,7 +55,7 @@ Interpretación breve: Ritmo intermedio con concentración del trabajo en pocas 
 
 - Mejoras implementadas: 5.00 (70%)
 - Aplicación al repositorio: 3.25 (10%)
-- Aspectos positivos: 3.75 (10%)
-- Valoración global: 3.50 (10%)
+- Aspectos positivos: 4.30 (10%)
+- Valoración global: 4.50 (10%)
 
-**Nota final (redondeada)**: 0.7×5.00 + 0.1×3.25 + 0.1×3.75 + 0.1×3.50 = (redondeado) 4.6
+**Nota final (redondeada)**: 0.7×5.00 + 0.1×3.25 + 0.1×4.30 + 0.1×4.50 = (redondeado) 4.7
