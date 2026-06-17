@@ -5,7 +5,7 @@
 
 ## Archivos revisados
 
-- Apophis_Proy_LSS_vf.ipynb (entregado)
+- Apophis_Proy_LSS_v_f.ipynb (versión final entregada)
 
 ## Historial de commits
 
@@ -30,7 +30,7 @@ Interpretación breve: Ritmo intermedio con concentración del trabajo en pocas 
 
 ## Retroalimentación
 
-- Archivo revisado: Apophis_Proy_LSS_vf.ipynb
+- Archivo revisado: Apophis_Proy_LSS_v_f.ipynb (versión final entregada)
 
 ### Aspectos positivos
 
@@ -41,12 +41,21 @@ Interpretación breve: Ritmo intermedio con concentración del trabajo en pocas 
 
 ### Aspectos por mejorar
 
-- En el experimento con el problema de los dos cuerpos falto calcular la distancia mínima a la Tierra de Apophis.
-- Falta fortalecer la parte de análisis y reflexión; no basta con mostrar resultados sin interpretarlos.
-- La narrativa del notebook debe mejorar: muchas celdas de código no están antecedidas por explicación.
-- Se recomienda cerrar con una sección unica de conclusiones (3-5 puntos) que sintetice hallazgos físicos y computacionales y responda directamente al objetivo del proyecto.
+- En el experimento con el problema de los dos cuerpos falto calcular la distancia mínima a la Tierra de Apophis. [Mejorado]
+- Falta fortalecer la parte de análisis y reflexión; no basta con mostrar resultados sin interpretarlos. [Mejorado]
+- La narrativa del notebook debe mejorar: muchas celdas de código no están antecedidas por explicación. [Mejorado]
+- Se recomienda cerrar con una sección unica de conclusiones (3-5 puntos) que sintetice hallazgos físicos y computacionales y responda directamente al objetivo del proyecto. [Mejorado]
 
 ### Valoración global
 
 - El trabajo tiene avances técnicos, pero necesita mejoras de fondo en comunicación de resultados y/o cumplimiento explícito del objetivo.
 - Estado de recepción: requiere cambios antes de recepción final.
+
+## Valoración final
+
+- Mejoras implementadas: 5.00 (70%)
+- Aplicación al repositorio: 3.25 (10%)
+- Aspectos positivos: 3.75 (10%)
+- Valoración global: 3.50 (10%)
+
+**Nota final (redondeada)**: 0.7×5.00 + 0.1×3.25 + 0.1×3.75 + 0.1×3.50 = (redondeado) 4.6
